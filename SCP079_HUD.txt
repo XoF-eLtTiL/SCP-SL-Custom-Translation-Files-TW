@@ -1,90 +1,90 @@
-🔍 ZOOM [amount]x
-<color=#8080FF>💳 ACCESS TIER [tier]</color>
-⭐ EXP [current] / [next]
-<color=#8080FF>🔓 MAX TIER 🔓</color>
-<color=red>❌ NO CAMERA ❌</color>
-<color=#8080FF>📡</color> GO TO: <color=#8080FF>[camera]</color> (<color=#8080FF>[cost]</color>)
-❌ NOT ENOUGH AUXILIARY POWER ❌
-ETA: [time] seconds
-⛔ ACCESS DENIED - HIGHER TIER REQUIRED ⛔
-<color=red>❌ INVALID CAMERA ❌</color>
-⛔ DOOR ACCESS DENIED ⛔
-<color=green>○</color> OPEN DOOR (<color=#8080FF>[cost]</color>)
-<color=#07A2FF>●</color> CLOSE DOOR (<color=#8080FF>[cost]</color>)
-<color=red>🔒</color> LOCK DOOR (<color=#8080FF>[cost]</color>)
-<color=green>🔓</color> UNLOCK DOOR 
-<color=yellow>⚠</color> DOOR LOCK COOLDOWN <color=yellow>⚠</color>
-<color=#8080FF>⚡ AUXILIARY POWER</color>
-<color=yellow>⚠</color><color=red> ACTIVE GENERATOR </color><color=yellow>⚠</color>
-<color=green>🔓</color> RELEASE DOOR LOCK
-OPEN FACILITY MAP
-CLOSE 
-<color=#f5eb9c>LIGHT CONTAINMENT ZONE</color>
-<color=#ca2642>HEAVY CONTAINMENT ZONE</color>
-<color=#bcfab2>ENTRANCE ZONE</color>
-<color=#9cc7f5>SURFACE ZONE</color>
-<color=#FFD700>💡</color> BLACKOUT (<color=#8080FF>[cost]</color>)
-❌ BLACKOUT UNAVAILABLE ❌
-🚨 LIMIT OF BLACKOUTS REACHED 🚨
-<color=yellow>⚠</color> BLACKOUT COOLDOWN <color=yellow>⚠</color>
-<color=orange>🔺🔻</color> SEND ELEVATOR (<color=#8080FF>[cost]</color>)
-<color=red>🔒</color> LOCKDOWN (<color=#8080FF>[cost]</color>)
-<color=yellow>⚠</color> LOCKDOWN COOLDOWN <color=yellow>⚠</color>
-❌ NO DOORS AVAILABLE ❌
-<color=#8080FF>🚨</color> PING LOCATION (<color=#8080FF>[cost]</color>)
-🚨 PING RATE LIMIT REACHED 🚨
-❌ CAMERA SWITCH FAILED ❌
-Connecting to <color=#00549F>e621.net</color>
-You will turn into <color=#FDBA31><b>furry</b></color> in [time]s
-<color=yellow>⚡</color> FIRE TESLA GATE (<color=#8080FF>[cost]</color>)
-<color=yellow>⚠</color> TESLA GATE ACTIVATION COOLDOWN <color=yellow>⚠</color>
-$<color=#8080FF>💳 Access Tier [tier]</color>$ - UNLOCKED
-$<color=#8080FF>⚡ AUXILIARY POWER</color>$ limit increased to $<color=#8080FF>[limit]</color>$.
-$<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ now available - press $<color=#8080FF>[key]</color>$ to disable room lights for <color=#8080FF>15s</color>.
-$<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ capacity increased to $<color=#8080FF>[number]</color>$ rooms.
-$<color=red>🔒</color> <color=#8080FF>LOCKDOWN</color>$ now available - press $<color=#8080FF>[key]</color>$ to temporarily lock down all doors in a room for <color=#8080FF>10s</color>.
-<color=#8080FF>+[amount] EXP</color> - <color=#ff00b0>Admin Command</color>
-<color=#8080FF>+[amount] EXP</color> - [role] termination assist - 💀
-<color=#8080FF>+[amount] EXP</color> - [role] <color=red>DIRECT TERMINATION - 💀</color>
-<color=#8080FF>+[amount] EXP</color> - Witnessed termination of [role] - \uf06e
-<color=#8080FF>+[amount] EXP</color> - Pursuit assist - 🚪
-<color=#8080FF>+[amount] EXP</color> - Protection of teammate(s) - \uf3ed
-<color=#8080FF>+[amount] EXP</color> - Prevented use of <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
-<color=red>🔒 DOOR LOCK ACTIVE 🔒</color>
-<color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - disable zone lights for 60s - ([cost])
-$<color=#ff9e00>☀</color> <color=#8080FF>ZONE-WIDE BLACKOUT</color>$ now available - next to zone labels on the $<color=#8080FF>Facility Map</color>$.
-<color=yellow>⚠</color> ZONE-WIDE BLACKOUT COOLDOWN <color=yellow>⚠</color>
-🚨 BLACKOUT ACTIVE 🚨
-❌ BLACKOUT UNAVAILABLE FOR THIS ZONE ❌
-🔬 TOTAL LIFEFORMS
-💀 TARGETS
-<color=#EC2222>🌀 SCP SUBJECTS</color>
-<color=#f5eb9c>📋 CIVILIAN</color>
-<color=#9cc7f5>\uf3ed MILITARY</color>
-<color=#8080FF>🔊</color> USE SPEAKER
-⛔ ELEVATOR ACCESS DENIED ⛔
-SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.
-Virtually Indestructible:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
-Unlimited Access:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
-Deep Learning:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
-Awake. Never Sleep. :Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. You are also able to access facility surveillance map.
-$<color=#ffa500>🎥</color><color=#8080FF>BREACH SCANNER</color>$ now available — select team(s)/zone(s) in $<color=#8080FF>Facility Map</color>$ to periodically scan for remaining survivors.
-<color=red>⚠ POWER REGEN SUSPENDED ⚠</color>
-<color=red>⚠ POWER REGEN REDUCED ([precentage]) ⚠</color>
-🚨 DOOR LOCK ACTIVE 🚨
-<color=#8080FF>🔊 SPEAKER IN USE 🔊</color>
-🔒 LOCKDOWN IN PROGRESS 🔒
-<color=#ffa500>🎥 BREACH SCANNER</color>
-RETURN TO MAP
-<color=#ffa500>🎥 BREACH SCANNER</color> - [cnt] zone(s)
-SELECTED ZONES: [cnt]
-<color=red>SELECT ZONES TO SCAN</color>
-「<color=red>❌</color>」 - <color=red>SCAN FAIL</color> - No stationary targets detected
-Retrying in <color=#8080FF>[time]</color> seconds...
-「<color=green>✔️</color>」 - <color=green>SCAN SUCCESSFUL</color> - $<b>[role]</b>$ detected - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
-<color=#8080FF>SCAN IN: [time]s</color>
-<color=#8080FF>Scanning...</color>
-<color=red><b>SYSTEM OFFLINE</b></color>
-<color=#8080FF>SELECT TEAMS TO DETECT</color>
-Breach Scanner detects remaining targets that stay within the same area for an extended period of time.
-<color=yellow>⚠</color><color=red>Select at least one filter to continue!</color><color=yellow>⚠</color>
+🔍 變焦 [amount]x
+<color=#8080FF>💳 訪問等級 [tier]</color>
+⭐ 經驗值 [current] / [next]
+<color=#8080FF>🔓 已達到最大等級 🔓</color>
+<color=red>❌ 無監視器 ❌</color>
+<color=#8080FF>📡</color> 切換到: <color=#8080FF>[camera]</color> (<color=#8080FF>[cost]</color>)
+❌ 沒有足夠的備用電力 ❌
+預計時間: [time] 秒
+⛔ 需要更高的等級 ⛔
+<color=red>❌ 不可用的監視器 ❌</color>
+⛔ 此門拒絕訪問 ⛔
+<color=green>○</color> 開啟門 (<color=#8080FF>[cost]</color>)
+<color=#07A2FF>●</color> 關閉門 (<color=#8080FF>[cost]</color>)
+<color=red>🔒</color> 鎖定門 (<color=#8080FF>[cost]</color>)
+<color=green>🔓</color> 解鎖門
+<color=yellow>⚠</color> 此門處於冷卻時間中 <color=yellow>⚠</color>
+<color=#8080FF>⚡ 備用電力</color>
+<color=yellow>⚠</color><color=red> 發電機啟動！</color><color=yellow>⚠</color>
+<color=green>🔓</color> 解鎖門
+打開設施地圖
+關閉
+<color=#f5eb9c>輕收容區域</color>
+<color=#ca2642>重收容區域</color>
+<color=#bcfab2>入口區域</color>
+<color=#9cc7f5>地表區域</color>
+<color=#FFD700>💡</color> 斷電 (<color=#8080FF>[cost]</color>)
+❌ 此房間無法進行斷電 ❌
+🚨 已達到同時斷電的數量上限 🚨
+<color=yellow>⚠</color> 此房間處於斷電冷卻時間中 <color=yellow>⚠</color>
+<color=orange>🔺🔻</color> 啟動電梯 (<color=#8080FF>[cost]</color>)
+<color=red>🔒</color> 封鎖 (<color=#8080FF>[cost]</color>)
+<color=yellow>⚠</color> 封鎖處於冷卻時間中 <color=yellow>⚠</color>
+❌ 沒有可用於封鎖的門 ❌
+<color=#8080FF>🚨</color> 標記位置 (<color=#8080FF>[cost]</color>)
+🚨 已達到標記頻率限制 🚨
+❌ 監視器切換失敗 ❌
+訊號遺失
+正在重新連接（預計：[time] 秒）
+<color=yellow>⚡</color> 啟動特斯拉電網 (<color=#8080FF>[cost]</color>)
+<color=yellow>⚠</color> 特斯拉電網啟動處於冷卻中 <color=yellow>⚠</color>
+$<color=#8080FF>💳 訪問等級 [tier]</color>$ - 已解鎖
+$<color=#8080FF>⚡ 備用電力</color>$ 上限提高到 $<color=#8080FF>[limit]</color>$.
+$<color=#FFD700>💡</color> <color=#8080FF>斷電</color>$ 現在可用-按下 $<color=#8080FF>[key]</color>$ 鍵關閉房間內的燈光。
+$<color=#FFD700>💡</color> <color=#8080FF>斷電</color>$ 使用上限新增到 $<color=#8080FF>[number]</color>$ 個房間。
+$<color=red>🔒</color> <color=#8080FF>封鎖</color>$ 現在可用-按下 $<color=#8080FF>[key]</color>$ 鍵可暫時鎖定一個房間內的所有門。
+<color=#8080FF>+[amount] 經驗值</color> - <color=#ff00b0>管理員指令</color>
+<color=#8080FF>+[amount] 經驗值</color> - [role] 擊殺助攻 - 💀
+<color=#8080FF>+[amount] 經驗值</color> - [role] <color=red>直接擊殺 - 💀</color>
+<color=#8080FF>+[amount] 經驗值</color> - 目擊到隊友擊殺 [role] - \uf06e
+<color=#8080FF>+[amount] 經驗值</color> - 協助隊友追擊 - 🚪
+<color=#8080FF>+[amount] 經驗值</color> - 保護隊友 - \uf3ed
+<color=#8080FF>+[amount] 經驗值</color> - 阻礙使用 <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
+<color=red>🔒 鎖定門已啟動 🔒</color>
+<color=#ff9e00>☀ 區域範圍斷電</color> - 關閉區域內燈光 60 秒 - ([cost])
+$<color=#ff9e00>☀</color> <color=#8080FF>區域範圍斷電</color>$ 現在可用-使用圖示顯示在 $<color=#8080FF>設施地圖</color>$ 內的區域名旁邊
+<color=yellow>⚠</color> 區域範圍斷電冷卻中 <color=yellow>⚠</color>
+🚨 斷電已在此處啟動 🚨
+❌ 此區域無法使用斷電 ❌
+🔬 當前存活總數
+💀 需消滅目標數
+<color=#EC2222>🌀 SCP 項目數</color>
+<color=#f5eb9c>📋 平民組織數</color>
+<color=#9cc7f5>\uf3ed 武裝組織數</color>
+<color=#8080FF>🔊 使用揚聲器</color>
+⛔ 電梯拒絕訪問 ⛔
+SCP-079 並沒有直接攻擊或是移動的能力。相對的，你可以靠每個房間裡的監視器巡視設施內的每一處並與之互動。所有可用的能力都列在你螢幕的右上角。
+近乎無敵:重收容區會隨機出現三臺發電機。一旦三臺發電機全部充能完畢，他們就能到達你的收容室裡將你重新收容。除了你之外的任何人都可以透過按下發電機上的“CANCEL”取消按鈕來中斷充能倒數計時。
+無限制訪問:你可以操縱設施內的各種系統來協助其它SCP。你的螢幕右上方會顯示有哪些能力可以使用。使用這些能力都需要消耗備用電力（AP）備用電力會隨時間恢復。
+深度學習:協助消滅，或者為其它SCP提供有利幫助時，你都將獲得用於取得更高訪問級別的經驗。 每個更高等級的訪問級別都會提供更多的備用電力值，並給予你新的能力。
+監視者:你獨特的視角賦予了你無處不在的能力。你可以標記指定位置，人類，和讓你感興趣的對象，使其幫助你協助殺戮。你也可以訪問設施的監視地圖。
+$<color=#ffa500>🎥</color><color=#8080FF>入侵掃描器</color>$ 現在可用-在 $<color=#8080FF>設施地圖</color>$ 中選定陣營/區域後將定期掃描剩餘的倖存者。
+<color=red>⚠ 備用電力恢復已暫停 ⚠</color>
+<color=red>⚠ 備用電力恢復已減少 ([precentage]) ⚠</color>
+🚨 鎖定門已啟動 🚨
+<color=#8080FF>🔊 揚聲器正在使用中 🔊</color>
+🔒 封鎖正在進行中 🔒
+<color=#ffa500>🎥 入侵掃描器</color>
+返回到地圖介面
+<color=#ffa500>🎥 入侵掃描器</color> - [cnt] 個區域
+已選定區域: [cnt]
+<color=red>選擇需要掃描的區域</color>
+「<color=red>❌</color>」 - <color=red>掃描失敗</color> - 沒有檢測到靜止的目標
+將在 <color=#8080FF>[time]</color> 秒後重試…
+「<color=green>✔️</color>」 - <color=green>掃描成功</color> - $<b>[role]</b>$ 檢測到 - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
+<color=#8080FF>下一次掃描時間: [time] 秒</color>
+<color=#8080FF>掃描中...</color>
+<color=red><b>系統離線</b></color>
+<color=#8080FF>選擇需要檢測的陣營</color>
+入侵掃描器能檢測在同一區域內停留了一段時間的倖存者。
+<color=yellow>⚠</color><color=red>至少選擇一個過濾條件以繼續！</color><color=yellow>⚠</color>

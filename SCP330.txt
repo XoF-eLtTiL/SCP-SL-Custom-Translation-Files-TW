@@ -1,22 +1,22 @@
-"Take Only Two"
+<b>糖果</b>
 <color=purple><b>🌈</b> R</color><color=#dca43c>a</color><color=#b40404>i</color><color=#f47fff>n</color><color=blue>b</color><color=#2a731f>o</color><color=purple>w</color> <color=#dca43c>C</color><color=#b40404>a</color><color=blue>n</color><color=#2a731f>d</color><color=#f47fff>y 🍬</color>
-\n\n\n<size=75%><color=#f47fff>Its a hard piece of rock candy, packed with all sorts of flavours.</color></size>
-\n\n\n\n<size=150%><color=#b40404>✚</color><color=#FFFFFF> Instantly restores 15 HP.\n<color=#dca43c>🏃</color><color=#FFFFFF> Infinite sprint - 5 seconds.\n<color=purple>⛨</color><color=#FFFFFF> 5% damage reduction.\n<color=#2a731f>⛨</color><color=#FFFFFF> reduces severity of negative effect - 10s.\n<color=blue>⛨</color><color=#FFFFFF> Applies 20 AHP for 10s.</color></size>
-<color=#dca43c>🍋 Yellow Candy 🍬</color>
-\n<size=75%><color=#dca43c>The overwhelming smell of lemon makes you cringe a little.</color></size>
-\n\n<size=150%><color=#dca43c>🏃</color><color=#FFFFFF> Restores 25% of Stamina.\n<color=#dca43c>🏃</color><color=#FFFFFF> Infinite sprint - 8 s.\n<color=#dca43c>🏃</color><color=#FFFFFF> 10% Movement Boost - 8 seconds.</color></size>
-<color=purple><b>🍇</b> Purple Candy 🍬</color>
-\n<size=75%><color=purple>It has a juicy grape smell. Your mouth begins to water.</color></size>
-\n\n\n\n<size=150%><color=purple>⛨</color><color=#FFFFFF> 20% damage reduction - 15s.\n<color=purple>✚</color> Regenerates 15HP.</size>
-<color=#b40404><b>🍒</b> Red Candy 🍬</color>
-\n<size=75%><color=#b40404>A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong.</color></size>
-<color=#b40404>✚</color><color=#FFFFFF> Regenerates 45HP.
-<color=#2a731f>🌿 Green Candy 🍬</color>
-\n<size=75%><color=#2a731f>A nasty, herbal smell emits from the candy.</color></size>
-\n\n<size=150%><color=#2a731f>⛨</color><color=#FFFFFF> Immunity to negative status effects - 30s.\n<color=#2a731f>✚<color=#FFFFFF> Slowly regenerates 120HP.</color></size>
-<color=#36a7d6>🍬 Blue Candy 🍬</color>
-\n<size=75%><color=#36a7d6>It smells soft and sweet, something akin to a marshmallow.</color></size>
-<color=#55da09>⛨</color><color=#FFFFFF> Applies </color><color=#55da09>30 AHP</color>.
-<color=#f47fff>🍓 Pink Candy 🍬</color>
-\n<size=75%><color=#f47fff>The strawberry scent is as gentle as it looks.</color></size>
-<color=#FFFFFF>💥 Instant ████████</color>
+\n\n\n<size=75%><color=#f47fff>一塊硬邦邦的糖，充滿了各種味道。</color></size>
+\n\n\n\n<size=150%><color=#b40404>✚</color><color=#FFFFFF> 立即恢復15點生命值。\n<color=#dca43c>🏃</color><color=#FFFFFF> 無限衝刺 - 5秒。\n<color=purple>⛨</color><color=#FFFFFF> 5%傷害減免。\n<color=#2a731f>⛨</color><color=#FFFFFF> 減少負面效果的嚴重程度 - 10秒。\n<color=blue>⛨</color><color=#FFFFFF> 提供20 AHP持續10秒。</color></size>
+<color=#dca43c>🍋<b>黃色糖果</b>🍬</color>
+\n<size=75%><color=#dca43c>濃郁的檸檬香氣撲鼻而來使你有點猶豫。</color></size>
+\n\n<size=150%><color=#dca43c>🏃</color><color=#FFFFFF> 恢復25%耐力。\n<color=#dca43c>🏃</color><color=#FFFFFF> 無限衝刺 - 8秒。\n<color=#dca43c>🏃</color><color=#FFFFFF> 移動速度提升10% - 8秒。</color></size>
+<color=purple>🍇<b>紫色糖果</b>🍬</color>
+\n<size=75%><color=purple>飽滿多汁的葡萄氣味。你的口水開始止不住往下流。</color></size>
+\n\n\n\n<size=150%><color=purple>⛨</color><color=#FFFFFF> 20%傷害減免 - 15秒。\n<color=purple>✚</color> 恢復15點生命值。</size>
+<color=#b40404>🍒<b>紅色糖果</b>🍬</color>
+\n<size=75%><color=#b40404>一股濃烈的櫻桃氣味充滿了房間。這味道有點…<i>太</i>勁了。</color></size>
+\n<size=150%><color=#b40404>✚</color><color=#FFFFFF> 恢復45點生命值。</size>
+<color=#2a731f>🌿<b>綠色糖果</b>🍬</color>
+\n<size=75%><color=#2a731f>一股難聞的草藥氣味從糖果中散發出來。</color></size>
+\n\n<size=150%><color=#2a731f>⛨</color><color=#FFFFFF> 短暫免疫負面狀態效果 - 30秒。\n<color=#2a731f>✚</color><color=#FFFFFF> 緩慢恢復120點生命值。</size>
+<color=#36a7d6>🍬<b>藍色糖果</b>🍬</color>
+\n<size=75%><color=#36a7d6>聞起來香軟又甜蜜，就像是棉花糖。</color></size>
+\n<size=150%><color=#55da09>⛨</color><color=#FFFFFF> 提供</color><color=#55da09>30 AHP</color>。</size>
+<color=#f47fff>🍓<b>粉色糖果</b>🍬</color>
+\n<size=75%><color=#f47fff>草莓的香氣就和它外表一樣柔和。</color></size>
+\n<size=150%><color=#FFFFFF>💥 立即 ████████</color></size>

@@ -1,7 +1,7 @@
-<color=#7cf58d><size=90%><b>DECONTAMINATION PROCESS BEGINS IN:</b></size></color>
-<color=red>⚠<b>-PLEASE EXIT THE AREA-</b>⚠</color>
-<color=red>⚠<b>-PLEASE EVACUATE-</b>⚠</color>
-<size=84%><b>SPOOKY ANALYSIS IN PROGRESS</b></size>
-<size=85%><b>PREPARING SECURITY SYSTEMS</b></size>
-<size=84%><b>SYSTEMS READY TO COMMENCE</b></size>
-<color=red><size=90%>⚠<b>-INITIALIZING PROCEDURE P-B-3-</b>⚠</size></color>
+<color=#7cf58d><size=90%><b>淨化程序將開始於</b></size></color>
+<color=red>⚠<b>-離開該區域-</b>⚠</color>
+<color=red>⚠<b>-請撤離-</b>⚠</color>
+<size=84%><b>威脅分析進行中</b></size>
+<size=85%><b>安全系統準備中</b></size>
+<size=84%><b>系統準備就緒</b></size>
+<color=red><size=90%>⚠<b>-初始化程序 p-b-3-</b>⚠</size></color>

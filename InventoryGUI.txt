@@ -1,17 +1,17 @@
-Ammo {0}/{1} {2}
-Damage
-Fire Rate
-Hip Accuracy
-ADS Accuracy
-Weight
-Length
-DROP:
-Helmet Efficacy
-Vest Efficacy
-Stamina Usage
-Movement Speed
-Item Limits:
-Ammo Limits:
-{0} total
-Armor Penetration
-Running Accuracy
+彈藥 {0}/{1} {2}
+傷害
+射速
+腰射精度
+瞄準精度
+重量
+長度
+丟棄:
+頭盔減傷
+背甲減傷
+耐力消耗
+移動速度
+物品上限:
+彈藥上限:
+共計{0}
+護甲穿透
+奔跑時射擊精度

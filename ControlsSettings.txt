@@ -1,16 +1,16 @@
-Mouse Settings
-Sensitivity
-Aiming Sens. Reduction
-Raw Input
-Invert Y-Axis
-While aiming down sights, mouse sensitivity is divided by the scope's zoom amount. Targets will always appear to move by the same distance on the screen in relation to your mouse movement. You can increase or decrease the intensity of the reduction by adjusting this setting.
-Hold
-Toggle
-Aim Down Sights - Activation Mode
-Sprint - Activation Mode
-Pickup Items - Activation Mode
-Sneak - Activation Mode
-Mouse Look - Activation Mode
-Right-Click to Drop (Inventory)
-Inventory - Activation Mode
-Zone Switch Keybinds
+滑鼠設定
+靈敏度
+瞄準時的靈敏度縮減
+輸入裝置
+反轉Y軸
+在瞄準時，滑鼠靈敏度會根據瞄準鏡的縮放比例進行調整，因此您的滑鼠移動距離與荧幕上的移動距離是一致的。您可以調整此參數來新增或减少縮放的程度。
+按住
+切換
+使用瞄準鏡 - 激活方式
+衝刺 - 激活方式
+拾取物品 - 激活方式
+潜行 - 激活方式
+自由視角 - 激活方式
+右鍵丟棄物品欄物品
+物品欄 - 激活方式
+區域切換按鍵

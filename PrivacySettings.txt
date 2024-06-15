@@ -1,16 +1,16 @@
-Server-side User Tracking
-Allow
-Deny (DNT)
-If denied, forbids verified servers to use your data (IP address, user ID, etc) for purposes not related to the server security. Some server-specific features (like leaderboards, leveling systems, and similar) will not work correctly.
-Rich Presence
-Allows platforms (Steam and Discord) to display more information regarding your current in-game status.
-Steam Lobby
-Public lobbies allow other users to join the server through your Steam profile.
-Voice Chat Privacy Settings
-Profile on Player List
-Enables players to view your Steam profile by clicking an icon on the in-game player list.
-Shown
-Hidden
-Private
-Public
-Changes will take place the next time you connect to a server (or on round restarts)
+伺服器端用戶追蹤
+允許
+拒絕（DNT）
+如果拒絕，禁止已驗證的伺服器使用您的數據（IP位址，用戶ID等）進行與伺服器安全無關的目的。一些伺服器特定的功能（如排行榜，等級系統等）將無法正常運作。
+遊戲狀態
+允許平台（Steam和Discord）顯示有關您當前遊戲狀態的更多資訊。
+Steam 大廳
+公共大廳允許其他用戶通過您的Steam個人資料加入伺服器。
+語音聊天隱私設定
+玩家列表上的個人資料
+允許玩家通過點擊遊戲內玩家列表上的圖示查看您的Steam個人資料。
+顯示
+隱藏
+私人
+公開
+更改將在您下次連線到伺服器時生效（或在回合重啟時生效）

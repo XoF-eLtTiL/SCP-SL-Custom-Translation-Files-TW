@@ -1,48 +1,52 @@
-Very Low
-Low
-Medium
-High
-Very High
-Ultra
-Enabled
-Disabled
-Shadows
-Shadow Resolution
-Facility Lights
-Resolution
-Aspect Ratio
-Display Mode
-Max Frame Rate
-Anti-aliasing
-V-Sync
-Decals
-Texture Quality
-Brightness
-Screen Settings
-Quality & Performance
-Ragdoll Freezing
-Ragdoll Freeze Time
-FPS Limiter
-Visual Effects
-Head Bobbing
-Explosion Screen Shake
-Flashbang Dark Mode
-All
-Other
-1/2 Refresh Rate
-1/3 Refresh Rate
-1/4 Refresh Rate
-Selected aspect ratio is not supported by your monitor
-Exclusive Fullscreen
-Borderless Window - Keep Visible
-Borderless Window - Hide When Unfocused
-Windowed
-SMAA Quality Preset
-Ambient Occlusion
-Bloom Quality
-Disables physics for ragdolls (dead bodies) after a specified time to reduce CPU usage.
-Aspect ratio of your current resolution is not supported!\nSome interface elements may not appear correct.
-Bullet Holes
-Blood Decals
-Target Display
-• Exclusive Fullscreen: The game has full control over the screen.\n• Borderless Window: Creates a full-screen effect by stretching the window to cover the screen. Different options control whether the game window should stay visible or automatically minimizes when it loses focus (for example, by user selecting another window).
+非常低
+很低
+中等
+高
+非常高
+極高
+啟用
+禁用
+光影渲染
+陰影分辯率
+設施燈光
+分辯率
+畫面比例
+顯示模式
+最大幀數
+反鋸齒
+垂直同步
+貼花
+圖像品質
+亮度
+螢幕設定
+質量 & 效能
+布娃娃（屍體）凍結
+布娃娃（屍體）凍結時間
+FPS限制
+視覺效果
+視覺搖晃
+爆炸時螢幕抖動
+閃光彈黑暗模式
+全部
+其它
+1/2刷新率
+1/3刷新率
+1/4刷新率
+您的顯示器不支持所選的比例
+獨佔全螢幕
+無邊視窗化 - 始終可見
+無邊視窗化 - 非聚焦視窗時隱藏
+視窗化
+SMAA反鋸齒質量預設
+環境光遮蔽
+Bloom泛光質量
+在指定時間後禁用布娃娃（屍體）的物理效果，可減少CPU的使用率。
+不支持您當前分辯率的比例！ \n一些介面元素可能無法正確顯示。
+彈孔
+血跡
+指定顯示器
+• 獨佔全螢幕：遊戲將完全控制螢幕\n• 無邊視窗化：用拉伸視窗並覆蓋螢幕的方式創建全螢幕的效果。不同的選項用於控制遊戲視窗始終可見，或是在遊戲視窗失去焦點自動最小化（比如用戶選擇了其它應用視窗）。
+圖像處理（Graphics）API
+更換遊戲所採用的3D圖像庫。\n此選項是試驗性的，因此，我們建議保持“Auto”設定，除非您試圖解決相容性較差的硬體設定，造成的特定渲染或效能問題。
+此更改將在遊戲重啟後生效。
+因為您設定了遊戲啟動參數來強制使用特定的圖像處理（Graphics）API，所以此設定不可用。

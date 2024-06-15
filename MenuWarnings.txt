@@ -1,4 +1,4 @@
-WARNING
-OKAY
-<b>Intel graphics</b> have been detected which is <b>not supported</b>.\nIt is <b>recommended</b> to use a <b>non-integrated</b> graphics card.\nThe game may <b>often crash</b> with the current setup.
-An important system update that is required by the voice chat cannot be found. Please ensure that your Windows is fully up to date, otherwise the game may not function properly. If this issue persists, please contact our tech support team for further assistance
+警告
+確定
+本遊戲已檢測到<b>不支援</b>的<b>Intel 顯示卡</b>。\n我們<b>建議</b>使用<b>獨立</b>顯示卡來遊玩此遊戲。\n目前設定容易造成<b>遊戲崩潰</b>。
+找不到語音聊天所需的重要系統更新。請確保您的Windows系統處於最新版本，並確保遊戲能正常運行。如果該問題仍然存在，請聯絡我們的技術支援團隊以獲取進一步的協助。

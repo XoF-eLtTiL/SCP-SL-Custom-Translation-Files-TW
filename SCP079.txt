@@ -1,17 +1,17 @@
-<color=#8080FF>⚡ AUXILIARY POWER</color>
-<color=#8080FF>📖 EXPERIENCE</color>
-CAMERA:<color=red>◉REC</color>
-PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
-Experience gained:
-Cooperative work
-<color=#FF8E00>Class-D</color> termination assist💀
-<color=#008F1E>CI Agent</color> termination assist💀
-<color=#0096FF>MTF NTF</color> termination assist💀
-<color=#FFFF7CFF>Scientist</color> termination assist💀
-<color=#F00>SCP Subject</color> termination assist💀
-LOCKED DOORS: [LOCKED_NUM]
-General interactions
-<color=#F00>Generator activated!</color>
-<color=#F00>Generators have been highlighted on the map!</color>
+<color=#8080FF>⚡ 輔助動力系統</color>
+<color=#8080FF>📖 經驗值</color>
+線上攝影機:<color=red>◉REC</color>
+按下 [KEY] 來監視全地圖
+已獲得經驗:
+團體合作
+<color=#FF8E00>D 級人員</color>擊殺助攻💀
+<color=#008F1E>混沌分裂者</color>擊殺助攻💀
+<color=#0096FF>機動特遣隊</color>擊殺助攻💀
+<color=#FFFF7CFF>科學家</color>擊殺助攻💀
+<color=#F00>SCP</color>擊殺助攻💀
+已上鎖的門: [LOCKED_NUM]<size=25>按下滑鼠右鍵來解鎖所有門</size>
+一般互動
+<color=#F00>發電機已啟動！</color>
+<color=#F00>發電機已標記在地圖上！</color>
 <color=yellow>⚠</color>
-<color=#F00>SCP Subjects</color>{0}<color=#0096FF>MTF NTF</color> & <color=#727472>Guards</color>{1}<color=#FFFF7CFF>Scientists</color>{2}<color=#FF8E00>Class-D</color>{3}<color=#008F1E>CI Agents</color>{4}
+<color=#F00>SCP</color>{0}<color=#0096FF>機動特遣隊</color> & <color=#727472>守衛</color>{1}<color=#FFFF7CFF>科學家</color>{2}<color=#FF8E00>D級人員</color>{3}<color=#008F1E>混沌分裂者</color>{4}

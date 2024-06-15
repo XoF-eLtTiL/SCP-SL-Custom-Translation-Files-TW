@@ -1,5 +1,5 @@
-Video
-Audio
-Controls
-Interface
-Privacy
+影像
+音效
+控制
+介面
+其它

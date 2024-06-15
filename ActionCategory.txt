@@ -1,8 +1,8 @@
-Gameplay
-Weapons
-Movement
-Hotkeys
-Comms
-System
-Unbindable
+遊戲性
+武器
+移動
+熱鍵
+通訊
+系統
+解綁
 SCP-079

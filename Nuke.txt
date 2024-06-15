@@ -1,4 +1,4 @@
-<size=250>-<color=red>☢️</color>-</size><size=100>\nALPHA WARHEAD: -<color=red>DISABLED</color>-</size>
-<size=250>-<color=cyan>☢️</color>-</size><size=100>\nALPHA WARHEAD: -<color=cyan>RESTARTING</color>-</size>
-<size=250>-<color=lime>☢️</color>-</size><size=100>\nALPHA WARHEAD: -<color=lime>READY</color>-</size>
-<size=90>-DETONATION INEVITABLE-</size>
+<size=250>-<color=red>☢️</color>-</size><size=100>\nALPHA核彈頭: -<color=red>已停用</color>-</size>
+<size=250>-<color=cyan>☢️</color>-</size><size=100>\nALPHA核彈頭: -<color=cyan>請等候</color>-</size>
+<size=250>-<color=lime>☢️</color>-</size><size=100>\nALPHA核彈頭: -<color=lime>準備就緒</color>-</size>
+<size=90>-無法終止引爆程序-</size>

@@ -1,41 +1,41 @@
-Hotkeys
-Create New Hotkey
-Hotkeys allow items to be assigned to keyboard keys, so you can equip them without having to open your inventory.
-Keycard
-Primary Weapon
-Secondary Weapon
-Medical
-Grenade
-Name
-Assigned key
-Appearance
-Queue mode
-Item selection priority
-Allows to set the starting point of the queued items based on the user-defined conditions.
-Hidden
-Normal Icon
-Small Icon
-Item queue
-Selection is based on the order of elements in the ‘Items’ pool below.
-Inventory order
-Selection is based on their order in the inventory.
-None
-Best medical
-Attempts to equip the best medical item based on your health, stamina amount, or status effects.
-Remember previous
-The sequence starting point will not reset when selecting a different item.
-Door access detection
-Prioritizes keycards that can access nearby doors.
-Skip empty firearms
-Prioritizes loaded firearms over empty ones.
-Items
-Match index
-This option allows the definition of an order as dictated by their position in the inventory. Inventory items not matching the selected filter above will be ignored when determining the order.
-Remove All Custom Hotkeys
-Restore Default (Hold)
-Edit: [hotkey]
-New Unnamed Hotkey
-Any Firearm
-Any Keycard
-Any Throwable
-Any SCP Item
+快速鍵
+創建新的快速鍵
+允許快速鍵把物品綁定到客製化的鍵盤按鍵上，這樣您就可以無需打開物品欄裝備它們。
+鑰匙卡
+主武器
+副武器
+醫療物品
+投擲物
+名稱
+指定按鍵
+外觀
+排序模式
+物品優先順序選擇
+允許根據用戶客製化的條件設定進行物品排序。
+隱藏
+正常圖示
+小圖示
+物品順序
+根據下方‘物品’池中物品順序進行排序。
+物品欄順序
+根據它們在物品欄中的順序進行排序。
+無
+最佳醫療物品
+根據您的生命值、耐力值或狀態效果來裝備最合適醫療物品。
+記住先前的選擇
+排序的起始順序不會在選擇不同物品時重設。
+門的訪問檢測
+優先選擇可以訪問附近門的鑰匙卡。
+跳過空彈匣槍械
+優先選擇已裝填的槍械而不是空的。
+物品
+匹配索引
+此選項允許根據它們在物品欄中的位置來進行排序。 在確定順序時將忽略與上方選擇篩選條件不匹配的物品欄物品。
+刪除所有自訂按鍵
+恢復預設（長按）
+編輯：[hotkey]
+新的未命名快速鍵
+任何槍械
+任何鑰匙卡
+任何投擲物
+任何SCP物品

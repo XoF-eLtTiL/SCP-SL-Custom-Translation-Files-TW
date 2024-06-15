@@ -1,17 +1,19 @@
-<b>The round has ended!</b>
-<color=#EC2222>「SCPS WIN」</color>
-<size=85%><color=#0096FF>「FOUNDATION WINS」</color></size>
-<size=85%><color=#008F1C>「INSURGENCY WINS」</color></size>
-「STALEMATE」
-<color=#EC2222>The escaped subjects have overrun the facility. Emergency response has been scrambled.</color>
-<color=#0096FF>All threats to safety have been neutralized. Site-02 is secure once again.</color>
-<color=#008F1C>Foundation presence has been exterminated. Operatives standing by for further orders.</color>
-Site-02 is under certain control, but not without cost. The victor is undetermined.
-<color=#FF8E00>🏃 [summary_d_escaped] Class-D(s) have survived</color>
-<color=#FFFF7C>👓 [summary_s_escaped] Scientist(s) have survived</color>
-<color=#EC2222>Alpha Warhead - DETONATED. Confirmed Terminations: [summary_warhead_kills].</color>
-<color=#EC2222>Alpha Warhead</color> - No detonation occured. Systems - Operational.
-The breach took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
-<color=#EC2222>🌀 [summary_scp_terminated] recontained SCP Subjects</color>
-Next round in [summary_next_round_countdown] seconds.
-<color=#EC2222>The SCPs killed [summary_scpfrags] beings.</color>
+<b>本回合結束!</b>
+<color=#EC2222>「SCP 勝利」</color>
+<size=85%><color=#0096FF>「基金會 勝利」</color></size>
+<size=85%><color=#008F1C>「分裂者 勝利」</color></size>
+「僵局」
+<color=#EC2222>异常項目侵佔了設施。緊急應變措施已啟動。</color>
+<color=#0096FF>所有對安全的威脅都已無效化，Site-02又恢復了安全。</color>
+<color=#008F1C>基金會安保部隊被徹底消滅。特工們正隨時待命準備出動。</color>
+Site-02基本得到了控制，但並非沒有付出代價。最終贏家難以確定。
+<color=#FF8E00>🏃 [summary_d_escaped] 個 D 級人員逃走了</color>
+<color=#FFFF7C>👓 [summary_s_escaped] 個科學家生存下來</color>
+<color=#EC2222>Alpha核彈頭 - 已被引爆並終結了 [summary_warhead_kills] 條生命。</color>
+<color=#EC2222>Alpha核彈頭</color> - 在這次任務中未被引爆。系統 - 正常運行。
+這次任務耗時 [summary_round_minutes] 分 [summary_round_seconds] 秒。
+<color=#EC2222>🌀 [summary_scp_terminated] 個 SCP 被殲滅了</color>
+下回合將在 [summary_next_round_countdown] 秒後開始。
+<color=#EC2222>SCP共殺死了 [summary_scpfrags] 名人類。</color>
+紅鶴 勝利
+其它的陣營全軍覆沒。紅鶴們取得了完全勝利。

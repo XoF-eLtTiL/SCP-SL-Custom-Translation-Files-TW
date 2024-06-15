@@ -1,47 +1,46 @@
-Press [key_attack] or [key_jump] to Lunge.
-🔍 Preview the voice (only you can hear this)
+按下[key_attack]鍵或[key_jump]鍵飛撲出去。
+🔍 試聽聲音（只有您可以聽到）
 -
-❌ Remove the voice (hold)
-🔊 Play the voice (everyone can hear this)
-<color=#EC2222>SCP-939</color> has killed you and has stolen your voice!
-If you do not wish your voice to be used, you can turn this feature off.
-Remember my choice
-Delete
-OK
-More information
-<color=#EC2222>SCP-939</color> uses a mechanic where the last few seconds of your voice chat transmission is temporarily recorded. This can be played back by <color=#EC2222>SCP-939</color> to lure out targets.\nThe recordings are automatically discarded if you leave the server, if SCP-939 dies, or upon round restart. Turning this feature off will remove all existing recordings of your transmissions.
-<color=yellow>⚠</color> Cloud cannot be deployed at this position <color=yellow>⚠</color>
-<color=yellow>⚠</color> Minimal Cloud size hasn't been reached <color=yellow>⚠</color>
-SCP-939 is blind, and only hears sounds. It capitalizes on mistakes, using its silent steps and frightening speed to set up ambushes and go in for the kill.
-<b>Claw</b>:Click to swipe your claw in a wide arc in front of you, ripping flesh and bone from your chosen victim. Whilst focusing, your primary attack will allow you to lunge at your prey.
-<b>Focus</b>:Devoting your full energy to your senses, you can see prey from farther away, as well as being able to tell what type of prey they are, through the actions they perform.
-<b>Amnestic Cloud</b>:Fill your air sacs with a dangerous neurochemical gas, projecting it in a radius which is determined by the time it was charged. Humans who inhale the gas lose perception of SCP-939, and cannot perform certain actions. Beware though, attacking or being attacked will reveal you for a short time.
-<b>With Many Voices</b>:Humans you kill have a chance at giving you their last words, allowing you to steal their voice and utilize it to deceive others. In addition, SCP-939 can also mimic some basic sounds, such as disguising their footsteps to match humans.
-<b>Ultrasensitive</b>:SCP-939 is able to sense nearby heat sources, represented by a small radius of normal vision. Outside of this however, you must rely on sound in order to track nearby prey. The louder the sound, the further away you can hear it from. The range of your vision is affected by your stamina levels.
+❌ 刪除聲音（長按）
+🔊 播放聲音（所有人都會聽到）
+<color=#EC2222>SCP-939</color>擊殺了您並偷走了您的聲音！
+如果您不希望您的聲音被其使用，您可以禁用這個機制。
+記住我的選擇
+删除
+同意使用
+查看詳情
+<color=#EC2222>SCP-939</color>使用了一種將您語音對話裏最後的幾秒鐘暫時記錄下來的機制。錄音可以由<color=#EC2222>SCP-939</color>播放，用於引誘目標。\n如果您離開伺服器、<color=#EC2222>SCP-939</color>死亡，或是回合結束，這些錄音會被自動删除。禁用這一機制將删除您現有的語音對話記錄。<color=yellow>⚠</color> 氣團不能部署在此處 <color=yellow>⚠</color>
+<color=yellow>⚠</color> 沒有達到釋放遺忘氣團的最小範圍 <color=yellow>⚠</color>
+SCP-939沒有視覺，它們靠聲音來辨別事物。它們能够趁著敵人放鬆警惕時，利用無聲的脚步來設下埋伏，並靠較快的移動速度來取敵首級。
+<b>爪擊</b>: 點擊滑鼠左鍵用你的爪子揮出一道大弧線，用力撕下其受害者身上的骨肉。在專注狀態下時，使用攻擊鍵則會使你向獵物飛撲過去。
+<b>專注</b>: 你將注意力全部集中到你的感官上，你將能從更遠的地方看到獵物，同時還能通過他們的行動判斷出他們是什麼類型的獵物。
+<b>遺忘氣團</b>: 使用一種危險的神經化學氣體充滿你的氣囊，並將其釋放在一個半徑範圍內，這個半徑的範圍由你蓄力充氣的時間而定。吸入這種氣體的人類會失去對SCP-939的感知，同時會忘記如何進行某些行動。不過要注意，進行攻擊或受到攻擊都會在短時間內暴露你的存在。
+<b>千喉</b>: 被你擊殺的人可以選擇給你他們死亡時所說的遺言，允許你偷走並利用他們的聲音來欺騙其他人。除此之外，<color=#EC2222>SCP-939</color>還可模仿一些基礎的聲音，比如將自己的腳步聲偽裝成人類。
+<b>極度敏銳</b>: <color=#EC2222>SCP-939</color>能感知到它附近的熱源，其表現為一個正常視野的半徑範圍。在範圍以外，你只能依靠聲音來定位附近的獵物。發出聲音越大，你能聽到的距離就越遠。你的視野範圍受到耐力值的影響。
 -
-<color=red>🌀</color> Place Mimic Point <color=red>🌀</color>
-Override position of Mimicry's sounds source
-<color=red>❌</color> Remove Mimic Point <color=red>❌</color>
-Make all sounds come from your current location
-<color=red>🌀</color> Mimic Point set <color=red>🌀</color>
-<color=yellow>⚠</color> Mimic Point removed <color=yellow>⚠</color>
-<color=yellow>⚠</color> Mimic Point out of range <color=yellow>⚠</color>
-Stolen Voices 💀
+<color=red>🌀</color> 放置擬聲點 <color=red>🌀</color>
+覆蓋之前擬聲點的位置
+<color=red>❌</color> 移除擬聲點 <color=red>❌</color>
+使所有的聲音都由你自身發出
+<color=red>🌀</color> 已設定擬聲點 <color=red>🌀</color>
+<color=yellow>⚠</color> 已移除擬聲點 <color=yellow>⚠</color>
+<color=yellow>⚠</color> 擬聲點已消失，你離它太遠了 <color=yellow>⚠</color>
+偷取的聲音 💀
 -
-Environmental Mimicry 🔦
+模仿環境音 🔦
 -
-Cooldown: [time]s
+冷卻時間: [time]秒
 -
-Impersonation 📋
-Shooting 🔫
-Miscellaneous 💉
+冒充 📋
+射擊聲 🔫
+其它 💉
 -
 -
-Roles
-Hotkey  <b>[key]</b>
-🔊 Play the selected sound (<b>everyone</b> can hear this)
-Stop the playback
-Drag to trim the recording
-Toggle favorite - Recording will be bound to a hotkey
-Drag to reorganize recordings
-<color=red>⚠</color> You've stolen your target's voice! <color=red>🔊</color>
+角色
+熱鍵  <b>[key]</b>
+🔊 播放選定的聲音 (<b>所有人</b>都會聽到)
+暫停播放
+拖動以修剪錄音
+開關收藏。把此錄音設置為收藏並綁定相應的熱鍵。
+拖動錄音可重新排序。
+<color=red>⚠</color> 您偷走了此獵物的聲音! <color=red>🔊</color>

@@ -1,20 +1,20 @@
-Server-side User Tracking
-Allow
-Deny (DNT)
-If denied, forbids verified servers to use your data (IP address, user ID, etc) for purposes not related to the server security. Some server-specific features (like leaderboards, leveling systems, and similar) will not work correctly.
-Rich Presence
-Allows platforms (Steam and Discord) to display more information regarding your current in-game status.
-Steam Lobby Visibility
-Defines how other users can join the server through your Steam profile.
-Voice Chat Privacy Settings
-Profile on Player List
-Enables players to view your Steam profile by clicking an icon on the in-game player list.
-Shown
-Hidden
-Invite-only
-Public
-Changes will take place the next time you connect to a server (or on round restarts)
-Friends-only
-Privacy
-🌀 <color=red>SCP Spawn Preferences</color>
-Spawn preferences are used to improve automatic assigment of SCP roles among teammates. <b>It does not affect your chances of becoming an SCP instead of a human.</b>
+伺服器端用戶追跡
+允許
+拒絕（DNT）
+如果拒絕，將封鎖伺服器讀取您的數據（IP位址、用戶ID等）用於與伺服器安全無關的目的。 某些服務器特有的挿件功能（如排行榜、等級系統等類似功能）將不能正常工作。
+更多狀態展示
+允許平臺（如Steam和Discord）顯示更多關於您當前遊戲狀態的訊息。
+Steam大廳可見性
+公開後其他用戶可以直接通過您的Steam個人首頁加入您所在的伺服器。
+語音聊天隱私設定
+玩家列表中的個人資料
+啟用時將允許玩家透過點擊玩家列表上的圖示來查看您的Steam個人檔案。
+顯示
+隱藏
+僅限邀請
+公開
+這些更改將在您下次連線到伺服器後生效（或回合重啟後）。
+僅限好友
+隱私
+SCP 生成偏好
+生成偏好用於改善您與SCP隊友之間關於角色自動分配的機率。請注意這不會影響您成為SCP而不是人類的機率。

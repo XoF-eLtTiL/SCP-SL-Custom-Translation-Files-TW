@@ -1,101 +1,101 @@
-JOIN
-CLOSE
-SHADOW RESOLUTION
-SETTINGS ⛭
-BASED ON <i>SCP: CONTAINMENT BREACH</i>
-BACK
-LANGUAGE
-ANTIALIASING
-Change details:\n-PIXEL LIGHT COUNT - Maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - Enable synchronising with the refresh rate of the display device.
-JOIN GAME
-POST\nPROCESSING
-CREDITS
-QUIT GAME
-Fullscreen mode
-SCREEN SETTINGS
-COLOR CORRECTION
-Enter IP Address...
-SCREEN RESOLUTION
-PLAY
-PIXEL LIGHT COUNT
-SHADOW TYPE
-SHADOWS
-CREATE GAME
-Change post-processing settings. These settings generally don't affect performance, leaving default values is recommended.
-Light rendering mode:\nWhen off, graphics quality is significantly reduced. Disabling this setting is only recommended for low-end computers.
-V-SYNC
-CONNECT
-QUALITY SETTINGS
-Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
-MAIN MENU
-RENDER LIGHTS
-MOTION BLUR
-SHADOW DISTANCE
-DETAILS
+加入
+關閉
+陰影解析度
+設定
+基於 <i>SCP: 收容失效</i>
+返回
+語言
+反鋸齒
+更改細節:\n-像素光源數量 - 光源渲染在各個像素上的光源最大數值。\n-垂直同步 - 啟動後使每秒顯示幀數與顯示器更新率同步。
+加入遊戲
+後期\n處理
+製作人員
+離開遊戲
+全螢幕模式
+螢幕設置
+顏色校正
+加入IP位址...
+螢幕解析度
+進行遊戲
+像素光源數量
+陰影類型
+陰影
+建立遊戲
+更改後期處理設定。 更改這些設定不會影響遊戲表現，建議使用預設選項。
+光源渲染模式:\n當關閉時 - 使遊戲畫面變得很糟糕。只推薦給低配置的設備。
+垂直同步
+連接
+品質設定
+更改陰影表現。 降低數值能提升遊戲流暢度。
+主選單
+光源渲染
+動態模糊
+陰影距離
+細節
 3. SCP-914
-TUTORIALS
-WARNING
-Browse available servers
-Don't show it again
-How would you like to connect?
-SERVER BROWSER
-OKAY
-FIND MATCH
-2. Using weapons
-We use Discord as a forum. No installation needed.\n(click the logo to join)
-By default, the server will set up on the local network.\nYour friends will need the direct IP address to connect.\nIf you want to set up a public server, select LocalAdmin.exe and follow the instructions.\nIf you have any questions, please ask our technical support (link in the main menu)
-1. The basics
-The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.
+教學
+警告
+瀏覽可用的伺服器
+不再顯示
+你想連接嗎?
+伺服器瀏覽器
+好的
+尋找配對
+2. 使用中的武器
+我們使用Discord作為我們的論壇，無需下載。 \n(按下圖片來加入)
+在預設情況下，伺服器會建立在本地網路上。\n你的朋友需要IP位址來直接連接。\n如果你想建立一個公開伺服器，請使用LocalAdmin.exe並跟隨指示。\n如果你有任何疑問，請查詢我們的技術支援。(主畫面的連結內)
+1. 基本
+遊戲目前仍處於公開測試階段。\n你可能會遇到連接問題和許多其他漏洞。\n目前階段並不能完整反映該遊戲的最終版本。
 4. (more tutorials later)
-DIRECT CONNECT
-TECH SUPPORT / FORUM
-SOUND VOLUME
-Enter the IP address of the specific server.
-DOWNLOADING DATA
-NO SERVERS AVAILABLE
-PRESS ESC TO CLOSE / CANCEL
-KEY BINDING
-MAX BLOOD AMOUNT
-FPS Limit
-FPS Limit does not work when vSync is enabled!
-Set Default
-We use Steam Discussions as a forum. (Click the logo below to open the forum)
-AUDIO SETTINGS
-MASTER VOLUME
-MENU MUSIC
-VOICE CHAT
-SOUND EFFECTS
-GAMEPLAY OPTIONS
-FAST INTRO FADE
-Class intro text will fade out much more quickly.
-SCP-079 - TOGGLE VIEW MODE
-Press once to swap between camera modes.
-SCP-079 - POST-PROCESSING
-If disabled, camera effects will be heavily reduced.
-HEAD BOB
-Enables first-person camera bobbing during movement.
-TOGGLE SPRINT
-Sprinting toggles on and off, instead of being held down.
-SEPARATE ARTIFICIAL HP BAR
-Gives artificial HP its own health bar, instead of an overlay.
-Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
-RICH PRESENCE
-If enabled, your status will be displayed on Discord/Steam.
-DISPLAY EXACT HP VALUE
-Displays exact HP, instead of just the percentage.
-PUBLIC LOBBY
-If enabled, your steam friends can join you without permission.
-HIDE IP
-If enabled, any IP in client console is not displayed.
-TOGGLE SEARCH
-Item pickup will not require a held key; press again to cancel.
-Applies soft shadows to corners and tight areas to give models more depth.
-Gives the environment more depth at a high performance cost.
-Gives lighting more depth by applying a glow based on the light intensity.
-Toggle to show subtitles for cassie announcements.
-Flashes the taskbar when you spawn while the game is not in focus.
-Smoothes lines and removes visual distortions.
-Synchronizes the in-game frame rate with your monitor's refresh rate to stop screen tearing.
-Projected textures such as bullet holes or blood splatter.
-Toggle Dark Mode
-Toggle to change some bright elements to their dark-themed versions.
+直接連接
+技術支援 / 論壇
+遊戲音量
+加入特定伺服器的IP位址。
+正在下載數據
+無可用伺服器
+按下 ESC 關閉 / 取消
+按鍵設置
+畫面顯示血液數量
+FPS限制
+當垂直同步開啟時FPS限制將會失效!
+使用預設選項
+我們使用Steam 討論區作為我們的論壇， (按下圖片來開啟論壇)
+音效設定
+主音量
+畫面音樂
+語音聊天
+聲音特效
+遊戲選項
+快速介紹
+職業介紹的文字會更快消失。
+SCP-079 - 切換查看模式
+按一次即可在攝影機模式之間切換。
+SCP-079 - 後期處理
+當關閉時，攝影機的效果將大大降低。
+搖頭效果
+在使用第一人稱移動時，所造成的搖頭效果。
+切換衝刺模式
+啟用按下按鍵來衝刺的功能，從而取代按住衝刺。
+獨立生命值的血條
+為生命值提供獨立的血條，而不是覆蓋。
+我們的翻譯已在GitHub開源！ \n想要來幫忙嗎？點擊這裡提交回饋。
+Steam狀態顯示
+如果啟用，你的Discord和Steam將顯示你在遊戲內的狀態。
+顯示準確的生命值
+顯示準確的生命值，而不只是百分比。
+公開小隊
+如果啟用，您的Steam好友可以在未經允許的情況下加入您。
+隱藏IP
+如果啟用，任何用戶端控制台中的IP都不會被顯示
+切換拾取模式
+物品拾取不需要長按，再次按下即可取消。
+在角落和狹窄區域使用柔和的陰影，使模型更加立體。
+以較高的效能提供更沉浸的環境效果。
+應用燈光強照的耀光來新增照明的層次感。
+切換顯示cassie廣播的字幕。
+當遊戲不在前臺時，陣營重繪時系統工作列遊戲圖示閃爍。
+平滑線條並消除視覺失真。
+同步您的遊戲幀速與顯示器刷新率，消除螢幕撕裂情況。
+投影材質，如彈痕或血跡。
+切換黑暗模式
+切換後將一些明亮的元素替換為黑暗主題版本。

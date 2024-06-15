@@ -1,5 +1,5 @@
-Universally Hostile:Humans have nowhere to run. SCP-1507 instances can detect their targets through the environment.
-The Swarm:SCP-1507 instances will regenerate their health for as long as they remain in a flock.
-Peck:Sink your plastic beak into a target, inflicting deep wounds. You can forcefully open locked doors by pecking them.
-Vocalize:Let out a squawk, concussing nearby targets. The ability can be used to revive recently-deceased flamingos.
-Vocalize [key]
+充滿敵意:人類無處可逃。SCP-1507實例可以透過環境感知到它們的目標。
+族群:SCP-1507實例在成群結隊時能持續恢復生命值。
+啄擊:用您塑膠的喙刺入目標，造成深深的傷口。您可以通過多次啄擊來强行打開鎖定中的門。
+鳴叫:發出一次叫聲，震懾附近的目標。 此能力可用於復活最近死去的紅鶴。
+按[key]鍵鳴叫

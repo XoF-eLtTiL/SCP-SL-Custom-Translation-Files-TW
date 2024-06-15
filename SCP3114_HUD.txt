@@ -1,16 +1,16 @@
-You are now disguised as a <b>[role_name]</b>.
-Unable to attack while disguised. Hold <b>[key]</b> to remove your current disguise.
-Items held as <color=red>SCP-3114</color> cannot be used.
-Press <b>[key]</b> to communicate with humans while disguised.
-This corpse has already been used for a disguise.
-You are already disguised. Hold <b>[key]</b> to remove your current disguise.
-Only human corpses can be used as a disguise.
-💀 This pile of bones are remains of <color=#ff80bc><b>[user]</b>'s</color> 💀
-You can use this corpse to disguise as a <b>[role]</b>.
-<b>Disguise</b>
-Strangulation Cooldown
-<b>Skeletons In Your Closet</b>:Your name and identity are hidden. You are but a blank canvas and the world is your muse. While disguised as a human, your basic strength allows for you to hold onto certain objects — but your lack of noticeable muscle prevents you from effectively using items.
-<b>Catch These Hands</b>:Unleash a flurry of light attacks that slowly scrape health from whomever you hit. These microscopic layers of allegedly calcium-rich skin somehow give you dexterity and strengthen your resolve, restoring a small amount of Hume Shield on each hit.
-<b>Strangulation</b>:Grab them by the neck and choke the life out of them. Look them in the eyes as they draw their last breaths. Their lives are but candles to be blown out, taking all but a mere few seconds. This attack can be interrupted.
-<b>Under Their Skin</b>:Steal yourself a nice, warm jacket (their skin) by interacting with their corpse. Temporarily embrace the warmth and wear their fleshy ‘meat suit’, mimicking the ability to hold certain items. Hold [key] to remove it abruptly!
-Press and hold <b>[key]</b> for longer to remove your current disguise.
+您現在偽裝成了一名<b>[role_name]</b>。
+無法在偽裝時進行攻擊。按住 <b>[key]</b> 鍵來解除當前偽裝。
+作為<color=red>SCP-3114</color>，您無法使用持有的物品。
+在偽裝狀態時按下 <b>[key]</b> 與人類交流。
+這具屍體已經用來偽裝過了。
+您正在偽裝中。按住 <b>[key]</b> 鍵卸下偽裝。
+只有人類的屍體能用來偽裝。
+💀 這堆難以辨認的屍骨可能是 <color=#ff80bc><b>[user]</b></color> 的遺骸 💀
+您可以用這具屍體來偽裝成一名<b>[role]</b>。
+<b>偽裝</b>
+扼喉冷卻中
+<b>難言之隱</b>: 您的名字和身份是隱藏的。您就如同一張空白繪卷，拿起畫筆發揮想像，來描繪您在這局遊戲中的形象吧。在偽裝成人類時，您自身的力量能够讓您持有物品 —— 但沒法控制的肌肉導致您無法有效地使用物品。
+<b>手癢難耐</b>: 您不停地進行輕攻擊，緩慢地對目標造成傷害。不知為何，您那富含鈣質的骨膜能讓您變得靈活同時還可以增强意志，每次命中都能恢復少量的臨時護盾。
+<b>扼喉</b>: 掐住目標的脖子並了結他。在他們氣絕之前緊盯著他們的雙眼。他們的生命不過是風中殘燭，而您就是那位吹燭者，花費幾秒鐘的時間送走他們。但是要注意，這個攻擊可以被打斷。
+<b>畫皮</b>: 您可與人類的屍體進行互動，為自己挑選一件喜歡的皮夾克（他們的皮膚）吧。穿上他們肉乎乎的‘皮外套’，短暫地享受溫暖，同時您還擁有了模仿持有物品的能力。按住 <b>[key]</b> 鍵可以突然卸下偽裝！
+按住 <b>[key]</b> 鍵更久一點可卸下當前的偽裝。

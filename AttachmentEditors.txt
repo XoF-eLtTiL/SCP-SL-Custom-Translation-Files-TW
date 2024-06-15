@@ -1,18 +1,18 @@
-Custom 📝
-Preset 📝#[index]
-<color=green>SAVE ✔</color>
-<color=red>CLEAR ATTACHMENTS ❌</color>
-Default
-📝 PRESETS 📝
+客製化 📝
+預設 📝#[index]
+<color=green>保存</color>
+<color=red>清空配件配置</color>
+預設配置
+📝 預設 📝
 <size=250><color=red>\n-🔒-</color></size>
-<color=#0096FF>SITE-02</color> FIREARM CUSTOMIZATION POINT\n<size=75%>PLEASE TOUCH THE SCREEN TO BOOT UP THE WORKSTATION</size>
-WELCOME, USER!
-WORKSTATION IS BOOTING UP...
+<color=#0096FF>SITE-02</color>槍械配件客製化點\n<size=75%>觸碰螢幕以啟動，<color=#ccc></size>
+您好，使用者！
+工作站正在啟動中
 <size=250><color=#00b300>\n-🔓-</color></size>
-<color=#0096FF>SITE-02</color> FIREARM CUSTOMIZATION POINT\n<size=75%>PLEASE EQUIP YOUR FIREARM TO PROCEED</size>
-POWERING DOWN...
-WORKSTATION IS SHUTTING DOWN...
-SHOW SUMMARY
-CLOSE SUMMARY
-[Attachment] Customization
-Press [Key] to edit attachments.
+<color=#0096FF>SITE-02</color>槍械配件客製化點<\n<size=75%><size=42><color=#ccc>請裝備好您的槍械進行配件改裝。</size>
+斷開供電
+工作站正在關閉中
+顯示概要
+關閉概要
+[Attachment] 客製化
+按下[Key]鍵進行配件改裝

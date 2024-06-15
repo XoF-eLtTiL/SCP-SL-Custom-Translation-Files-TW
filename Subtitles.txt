@@ -1,28 +1,28 @@
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MTF Unit Epsilon-11</color> <b>|</b> <color=#003DCA>Designation: [designation]</color> <b>|</b> 
-<color=#EC2222>[count] SCP Subjects </color>.
-<color=#EC2222>1 SCP Subject</color>.
-<color=#EC2222>exercise caution</color>.
-terminated <b>|</b> Termination cause unspecified.
-terminated by: <color=#EC2222>SCP-[scp]</color>.
-terminated by: <color=#f5650a>Automatic Security System</color>.
-terminated by: <color=#EC2222>Alpha Warhead</color>.
-contained by: <color=#FFFF7C>Science Personnel</color>.
-contained by: <color=#FF8E00>Class-D Personnel</color>.
-contained by: <color=#008F1C>Chaos Insurgency</color>.
-<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>SCP-[scp]</color>
-contained <b>|</b> Containment unit unknown.
-contained <b>|</b> Containment Unit: <color=#0096FF>[designation]</color>.
-lost in decontamination sequence.
-<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#8080FF>[current]</color>/<color=#8080FF>[max]</color> generators activated.
-<split>All generators have been successfully engaged.
-<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Overcharge in 3... 2... 1...</color>
-<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Facility is back in operational mode.</color>
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>15 minutes</color>.
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>[time] minutes</color>.
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>1 minute</color>.
-<color=#f6b140>「⚠️」</color><color=#EC2222>- Light Containment Zone</color> decontamination in <color=#EC2222>30 seconds</color>.
-<b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Light Containment Zone</color> is locked down and ready for decontamination.
-<color=#ff4545>「⚠️」</color><color=#EC2222> - ALPHA WARHEAD SEQUENCE ENGAGED <b>|</b> DETONATION IN [time] SECONDS</color>
-<b><color=#ff4545>「❌」</color><color=#EC2222> - DETONATION CANCELLED <b>|</b> RESTARTING SYSTEMS...</color>
-<color=#ff4545>「⚠️」</color><color=#EC2222> - DETONATION RESUMED <b>|</b> [time] SECONDS</color>
-terminated by: <color=blue>Marshmallow Man</color>.
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - 機動特遣部隊Epsilon-11代號<b><color=#003DCA>[designation]</color></b>小隊已進入設施。<split> 議所有倖存人員繼續執行標準疏散方案，直至MTF小隊抵達您所處的位置。<split>
+<color=#EC2222>[count] SCP項目</color>等待被重新收容。
+<color=#EC2222>1 SCP項目</color>等待被重新收容。
+設施內仍然存在影響安全的潜在重大威脅——<color=#EC2222>請謹慎行事</color>。
+已成功消滅，死亡原因不明。
+已被 <color=#EC2222>SCP-[scp]</color> 消滅。
+已被 <color=#f5650a>自動安保系統</color> 成功消滅。
+已被 <color=#EC2222>Alpha核彈頭</color> 成功消滅。
+已被 <color=#FFFF7C>科學家</color> 重新收容。
+已被 <color=#FF8E00>D級人員</color> 重新收容。
+已被 <color=#008F1C>混沌分裂者</color> 重新收容。
+<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>SCP-[scp]</color> 
+已被成功收容，收容方式不明。
+已被 <color=#0096FF>[designation]</color> 成功收容。
+已被輕收容淨化系統清除。
+<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#8080FF>[max]</color>分之<color=#8080FF>[current]</color>的應急發電站已被啟動。<split>
+所有的應急發電站已被成功啟動。
+<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>超載倒數計時3… 2… 1…</color>
+設施已恢復正常運作模式。
+「<color=#f6b140>⚠️</color>」 - 全體人員請注意。<split><color=#EC2222>輕收容區域</color>的淨化程式將在倒數計時<color=#EC2222>15分鐘</color>後進行。<split>所有生物必須立即轉移，以避免被清除。
+危險，<color=#EC2222>輕收容區域</color>淨化程式將在倒數計時<color=#EC2222>[time]分鐘</color>後開始。
+危險，<color=#EC2222>輕收容區域</color>淨化程式將在倒數計時<color=#EC2222>1分鐘</color>後開始。
+危險，<color=#EC2222>輕收容區域</color>淨化程式將在倒數計時<color=#EC2222>30秒</color>後開始。<split>所有檢查點的門禁已永久開啟。請立即疏散撤離。
+<b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>輕收容區域</color>已被封鎖即將準備淨化清除。<split>現在開始清除所有生物。
+<color=#ff4545>「⚠️」</color><color=#EC2222> - ALPHA核彈頭緊急引爆程式已啟動 <b>|</b> 地下部分設施將在倒數計時<color=#EC2222>[time]秒</color>後被引爆。</color>
+<b><color=#ff4545>「❌」</color><color=#EC2222> - 引爆程式被取消 <b>|</b> 正在重啓系統...</color></b>
+<color=#ff4545>「⚠️」</color><color=#EC2222> - 引爆程式已重新啟動 <b>|</b> 倒計時<color=#EC2222>[time]秒</color></color>
+已被<color=blue>棉花糖人</color>消滅。

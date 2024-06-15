@@ -1,61 +1,83 @@
-Northwood Chief Executive Officer 
-Northwood Chief Information Officer 
-Northwood Chief Operations Officer 
-Northwood Community Director 
-Northwood Discord Manager 
-Northwood Executive Assistant 
-Northwood Feedback Manager 
-Northwood Human Resources 
-Northwood Human Resources Director 
-Northwood Marketing Platform Manager 
-Northwood Staff 
-Northwood Steam Manager 
-Northwood System Administrator 
-Northwood Wiki Manager 
-SCP:SL Art Manager 
-SCP:SL Art Supervisor 
-SCP:SL Artist 
-SCP:SL Backend Programmer 
-SCP:SL Backend Programming Manager 
-SCP:SL Developer 
-SCP:SL Event Winner 
-SCP:SL Fullstack Programmer 
-SCP:SL Game Designer 
-SCP:SL Gameplay Programmer 
-SCP:SL Global Moderation Manager 
-SCP:SL Global Moderator 
-SCP:SL Lead Game Designer 
-SCP:SL Lead Gameplay Programmer 
-SCP:SL Level Designer 
-🐺 SCP:SL Partner (Furry) 🐺
-SCP:SL Patreon Supporter 
-SCP:SL Quality Assurance Manager 
-SCP:SL Sound Designer 
-SCP:SL Game Director
-SCP:SL Official Server Manager 
-Northwood Verification Specialist 
-SCP:SL Anti-Cheat Developer 
-SCP:SL Quality Assurance Tester 
-SCP:SL Quality Assurance Supervisor 
-SCP:SL Twitch Subscriber 
-SCP:SL Audio Manager 
-Northwood Feedback Coordinator 
-Northwood Verification Supervisor 
-SCP:SL Official Server Supervisor 
-Northwood Feedback Supervisor 
-Northwood Verification Manager 
-Northwood Bot Manager 
-Northwood Translation Manager 
-SCP:SL Game Design Manager 
-SCP:SL Animator 
-Northwood Public Relations Director 
-SCP:SL Community Helper 
-SCP:SL Voice Actor 
-SCP:SL Foundation Investor 
-Northwood Studio Director 
-SCP:SL Assistant Game Director 
-Northwood Tech Support Supervisor 
-Northwood Tech Support Manager 
-Northwood System Administration Manager 
-SCP:SL Narrative Designer 
-Northwood Marketing Platform Supervisor 
+Northwood工作室 行政總裁
+Northwood工作室 資訊長
+Northwood工作室 營運長
+Northwood工作室 社群經理
+Northwood工作室 Discord 經理
+Northwood工作室 執行助理
+Northwood工作室 回饋經理
+Northwood工作室 人力資源
+Northwood工作室 人力資源主任
+Northwood工作室 行銷平台經理
+Northwood工作室 職員
+Northwood工作室 Steam 經理
+Northwood工作室 系統管理員
+Northwood工作室 維基經理
+SCP:SL 藝術總監
+SCP:SL 藝術主管
+SCP:SL 藝術家
+SCP:SL 後端程式設計師
+SCP:SL 後端程式設計經理
+SCP:SL 開發人員
+SCP:SL 活動得獎者
+SCP:SL 全端工程師
+SCP:SL 遊戲設計師
+SCP:SL 遊戲程式設計師
+SCP:SL 全球內容審查經理
+SCP:SL 全球內容審查員
+SCP:SL 首席遊戲設計師
+SCP:SL 首席遊戲程式設計師
+SCP:SL 關卡設計師
+SCP:SL 合作夥伴
+SCP:SL Patreon 支持者
+SCP:SL 品質管理經理
+SCP:SL 音效設計師
+SCP:SL 遊戲總監
+SCP:SL 官方伺服器經理
+Northwood工作室 審核專員
+SCP:SL 反作弊開發員
+SCP:SL 質量保證測試員
+SCP:SL 質量保證主管
+SCP:SL Twitch 訂閱者
+SCP:SL 音訊經理
+Northwood工作室 回饋團隊
+Northwood工作室 審核主管
+SCP:SL 官方伺服器主管
+Northwood工作室 回饋長
+Northwood工作室 審核經理
+Northwood工作室 機器人部門經理
+Northwood工作室 翻譯部門經理
+Northwood工作室 遊戲策劃部門經理
+SCP:SL 動畫設計師
+Northwood工作室 公關主任
+SCP:SL 社區助手
+SCP:SL 配音演員
+SCP:SL 基金投資人
+Northwood工作室 主任
+SCP:SL 遊戲總監助理
+SCP:SL 技術支援主任
+SCP:SL 技術支援經理
+Northwood工作室 系統管理經理
+SCP:SL 敘事設計師
+Northwood工作室 行銷平台主任
+SCP:SL 音訊技術負責人
+Northwood工作室 翻譯協調員
+Northwood工作室 安全經理
+Northwood工作室 安全顧問
+Northwood工作室 安全經理助理
+公共關係助理主任
+社區管理助理主任
+人力資源助理主任
+SCP:SL 遊戲策劃主管
+SCP:SL 關卡設計主管
+SCP:SL 全球管理員主管
+Northwood工作室 系統管理員主管
+Northwood工作室 網站開發主管
+Northwood工作室 網站開發經理
+Northwood工作室 文案主管
+Northwood工作室 文案經理
+Northwood工作室 Patreon主管
+Northwood工作室 Patreon經理
+Northwood工作室 社交媒體主管
+Northwood工作室 社交媒體經理
+Northwood工作室 翻譯部門主管
+Northwood工作室 Steam主管

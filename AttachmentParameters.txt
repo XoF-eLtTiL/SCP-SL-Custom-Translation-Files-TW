@@ -1,22 +1,23 @@
-ADS zoom
+開鏡視野(ADS)縮放
 ---
-Damage
-Penetration
-Fire rate
-Recoil
-Recoil when aiming
-Bullet accuracy
-Hip-firing accuracy
-Aiming accuracy
-Equip time
-Gunshot loudness
-Magazine capacity
-Equip time
-Reload time
+傷害
+穿透力
+射速
+後坐力
+瞄準時後坐力
+子彈精度
+腰射精度
+瞄準精度
+裝備時間
+槍響
+彈匣容量
+拔槍時間
+換彈時間
 ---
-Aiming speed
-Pellet spread
-Pattern consistency
-Projectiles number
-Reload speed
-Running accuracy
+瞄準速度
+彈丸散佈
+彈束集中
+彈丸數量
+裝填速度
+---
+跑射精度

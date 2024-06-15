@@ -1,1 +1,1 @@
-<color=red>Laser is visible to others</color>
+<color=red>其他人也能看到雷射瞄點</color>

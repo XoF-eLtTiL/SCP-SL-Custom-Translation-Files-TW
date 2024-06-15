@@ -1,8 +1,8 @@
-SCP-096 starts docile, and can become enraged when someone sees its face, or harms it. Rage empowers with many abilities, which assist SCP-096 in following transgressor’s lights before the fury subsides.
-<b>Try Not to Cry</b>:It's hard to go on… but leaning on something helps you to calm down, either to hide… or to wait for someone to come by.
-<b>Melee Attack</b>:Tear through anything in your way to get to those who've hurt you. Your attacks will destroy doors and injure humans.
-<b>Charge</b>:Cut their escapes short — they deserve it. You bolt straight ahead for a short distance, demolishing anything in your path.
-Rage Only
-Docile Only
-Hold <b>[key]</b> to enter Rage.
-Hold <b>[key]</b> to force-exit Rage.
+SCP-096平時十分溫順，但每當有人看到它的臉或傷害到它時，它就會開始發怒。怒火會給予SCP-096許多能力，在怒火消退之前，這些能力會化為憤怒之光幫助SCP-096追殺冒犯者。
+<b>欲哭無淚</b>: 控制情緒可太難了…不過倚靠在某些地方上或許有幫助，這能幫助你隱藏起來...或等待某位的來臨。
+<b>近身攻擊</b>: 撕開一切阻礙去追殺傷害過你的人。你的攻擊能破壞掉門以及對人類造成大量傷害。
+<b>窮追不捨</b>: 使他們走頭無路 - 罪有應得！您俯身向前衝刺一小段距離，並破壞沿途的事物。
+僅狂怒狀態可用
+僅溫順狀態可用
+長按 <b>[key]</b> 鍵進入狂怒。
+長按 <b>[key]</b> 鍵強制結束狂怒。

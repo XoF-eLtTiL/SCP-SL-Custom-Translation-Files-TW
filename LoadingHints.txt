@@ -1,83 +1,83 @@
-You can disarm a player by interacting with them while holding a firearm.
-There are four main zones in the Facility: Light Containment, Heavy Containment, Entrance, and Surface.
-Scientists and Class-D must reach the surface to escape.
-Facility Guards are weak alone but have strength in numbers. Stick together!
-Your stamina is a precious resource, reserve some for emergencies!
-The Entrance Zone has two gates that provide access to the surface. You'll need a keycard to open them.
-Using an elevator is a quick and easy way to escape most SCPs.
-Escaped Class-D join the Chaos Insurgency, while escaped Scientists become MTF.
-Adrenaline can be used to instantly refresh your stamina and gives you an advantage in combat.
-Radios have four range settings. The longer the range, the faster the battery drains.
-Tesla gates are electric hazards found throughout the Heavy Containment Zone. Proceed with caution!
-Mobile Task Force units and Chaos Insurgents arrive at opposite ends of the Surface Zone.
-The Alpha Warhead kills anything inside the Facility when it detonates. It can be activated from the Surface Zone.
-The Alpha Warhead detonation sequence can be canceled from its room in Heavy Containment.
-The Intercom room in the Entrance Zone can be used to broadcast a voice message to all players.
-You can throw items (‘T’ by default). This can be used to open keycard doors from a distance or to break glass.
-The Light Containment Zone will lock down after 15 minutes; killing anyone left inside. Escape while you can!
-Maximize your advantage by adjusting your weapon attachments based on the situation you find yourself in.
-The more attachments a weapon has on it, the heavier it gets. This affects stamina usage and movement speed.
-Not only do suppressors muffle gunshots, they also hide muzzle flashes.
-Longer and heavier weapons are less accurate if fired while running.
-Wearing body armor increases the number of items and ammo you can carry.
-Armor-piercing rounds (AP) perform best against armored targets.
-Hollow-point rounds (JHP) do higher damage to unarmored targets but are weaker against armor.
-Press and hold the reload key to unload a weapon, adding its ammunition to your inventory.
-Chaos Insurgency weapons are powerful but their ammunition does not spawn in the Facility. Make it count.
-Grenades can be used to destroy doors.
-Grenades can be thrown with less force using the right mouse button.
-The Micro H.I.D. can kill most SCPs very quickly but has a limited power supply. Use it wisely!
-The Micro H.I.D. requires about five seconds of charging before it can fire.
-Holding right mouse button will keep the Micro H.I.D. at its ready-to-fire state; slowly draining energy.
-The Micro H.I.D. is very loud while charging. Make sure to use it while your targets can’t run away.
-Charging the Micro H.I.D. produces an intimidating sound which is enough to ruin your enemies' plans.
-A bottle of SCP-207 not only increases your movement speed, but will partially restore your health as well.
-Up to four SCP-207 bottles can be consumed, allowing for a significant multiplier to your speed.
-SCP-500 not only heals you but removes most negative effects, and provides regeneration afterwards.
-While SCP-268 makes you invisible to all humans, SCP-079 can still notice you.
-SCP-268 won’t save you from SCP-096 if you’ve looked at him.
-SCP-018 is highly unpredictable. When it’s thrown, take cover.
-SCP-018 can be used to block off pursuers when bouncing in a hallway.
-SCP-330 can dispense six unique candies, each with their own effects. Take no more than two!
-SCP-1853 allows weapons to be reloaded faster, and decreases felt recoil.
-SCP-2176 can be used to lock down a room, or unlock a room or door locked by SCP-079.
-SCP-2176 can be used to stun SCP-079 if used in a room currently being observed.
-SCP-244 slows down the speed at which items can be picked up, and stops SCPs from regenerating their shields.
-SCP-1576 allows living players to talk to spectators for a short time.
-SCP-914 can change all items, including weapons and ammunition.
-SCP-914 can recharge radios and the Micro H.I.D.
-SCP-914 can create a number of unique items that can’t be found anywhere else. Feel free to experiment!
-SCP-079 starts off relatively weak but gets more powerful as a match goes on.
-SCP-079 can lock doors, turn off lights, and overcharge Tesla gates.
-A Tesla gate being looked at by SCP-079 will always appear active.
-SCP-079 is recontained using generators found in the Heavy Containment Zone, and a final button in its containment chamber.
-SCP-079 can change its cameras’ zoom using the mouse wheel.
-The longer SCP-079 has a door locked, the more power it will take to keep locked.
-SCP-079 unlocks a breach scanner at level 4. If it detects a human hiding in a room, an alarm will sound.
-A camera being used by SCP-079 will glow blue. Keep an eye out! You never know when it's watching.
-SCP-173 can move freely in dark rooms, even if it's being looked at. Bring a flashlight!
-SCP-173 can kill stealthily from behind.
-SCP-173 can create a puddle that slows down humans that walk through it — creating quick and efficient area-denial.
-SCP-106 can walk through doors and glass windows.
-While in Stalk, SCP-106 can see humans in a short radius around him.
-SCP-106 can open up a map of nearby rooms to teleport to, bound to ‘TAB’ by default.
-SCP-106’s abilities rely on a resource known as ‘Vigor’, which drains with each ability he uses.
-SCP-106 is most vulnerable immediately after emerging from the ground.
-SCP-096 is most vulnerable when it has just begun to calm down.
-SCP-096 can charge forward while enraged — breaking doors and killing targets.
-SCP-096 will destroy doors and pry open closed gates when enraged.
-SCP-939 can mimic the voices of players it has previously killed.
-SCP-939 can release a cloud of amnestic gas. Humans under its effects cannot perceive SCP-939 until it attacks.
-Using adrenaline negates the effects of SCP-939’s amnestic cloud.
-Flashbangs are especially effective against SCP-939.
-The lower SCP-939’s stamina is, the poorer its perception of players becomes.
-The longer SCP-939 is in Focus, the more effective Ultrasensitive becomes.
-SCPs’ footsteps are distinct from human ones. Listen carefully!
-Being attacked by SCP-049 inflicts cardiac arrest on a human. Health and stamina drain rapidly during this time.
-SCP-049 can instantly kill any human already under the effects of cardiac arrest.
-Cardiac arrest drains your health rapidly. You’ll need medical supplies if you want to survive it.
-SCP-049 can only reanimate corpses if they’re fresh.
-SCP-049 can give a small shield to SCP-049-2 instances who are nearby.
-SCP-049-2 is vulnerable to headshots.
-SCP-049-2s make good scouts and are dangerous in large numbers.
-Most playable SCP instances have a secondary health bar called ‘Hume Shield’, which absorbs damage and regenerates over time.
+您可以在持有槍械的情況下對玩家按下交互鍵來解除他們的武裝。
+設施內設有四個主要區域：輕收容區，重收容區，入口區，以及地表區。
+科學家與D級人員抵達地表區域即可逃生。
+設施守衛在獨自行動時力量薄弱，但人多時力量大。團結就是力量！
+您的體力十分珍貴，記得保留一些以備不時之需！
+入口區域有兩道重型閘門，提供了通向地表區域的通道。 您需要一張相應權限的鑰匙卡才能開啟它。
+乘坐電梯能快速又輕易地擺脫大部分SCP的追擊。
+D級人員成功逃生將加入混沌分裂者陣營，反之科學家成功逃生則將加入MTF陣營。
+腎上腺素能瞬間恢復您的耐力，使您在戰鬥中取得優勢。
+對講機有四個通訊範圍設定，範圍越遠，電量會消耗的越快。
+特斯拉電網是重收容區域隨處可見的電氣陷阱。要小心行事！
+機動特勤部隊與混沌分裂者分別在地表區域的兩端抵達。
+引爆Alpha核彈頭會消滅設施內的一切。 您可以從地表啟動它。
+在重收容區域的核彈室內可以取消Alpha核彈頭的引爆程式。
+您可以透過使用入口區域的廣播中心向所有玩家廣播消息。
+您可以投擲物品（預設為‘T’鍵）。 這能用於從遠處打開許可權門或是打碎玻璃。
+輕收容區域將會在15分鐘後關閉；屆時將會消滅任何留在裡面的人。盡你所能逃脫吧！
+根據您當下的情況適當調整您的武器配件，將您的優勢最大程度地發揮出來吧。
+一把武器上的配件越多，它就越重。 這會影響到耐力消耗和移動速度。
+消音器不僅可以消減槍聲，還能隱藏槍口的光焰。
+較長和較重的武器在奔跑時開火的射擊精度較低。
+穿戴防彈衣能新增您所攜帶物品和彈藥的上限。
+穿甲彈（AP）對裝甲目標的效果最好。
+金屬包覆中空彈（JHP）對非裝甲目標的造成的傷害更高，但對裝甲的傷害較低。
+長按換彈鍵能對手中的槍械進行退彈操作，其彈匣裡的剩餘彈藥會退回到您的背包中。
+混沌分裂者的武器十分強力但他們的彈藥不會在設施中生成。 物盡其用。
+手榴彈可以用於炸毀門。
+使用滑鼠右鍵可以低拋投擲物。
+Micro H.I.D.能迅速擊敗大多數SCP但能量有限。 好好使用它！
+Micro H.I.D.大約需要五秒的充能時間才能發射。
+長按滑鼠右鍵使Micro H.I.D.保持蓄能待機狀態； 能量會緩慢消耗。
+Micro H.I.D.在蓄能階段時聲音非常大。 要確保您的目標在無法逃脫的時候使用它。
+Micro H.I.D.蓄能時的聲音令人生畏，或許足以破壞敵人的計畫。
+來一瓶SCP-207不僅能提高您的移動速度，還能部分恢復您的生命值。
+您最多可以喝下3瓶SCP-207，其移動速度會大幅度增加。
+SCP-500不僅可以立刻治療您，還能解除大多數負面效果，並提供持續的恢復。
+雖然SCP-268可以讓所有人類無法發現您，但SCP-079仍能注意到您。
+如果您看到了SCP-096，即使是SCP-268也救不了您。
+SCP-018難以預測。 把它拋出後，找個地方躲起來吧。
+SCP-018能在走廊反復彈射從而阻擋追擊者。
+SCP-330可以提供六種獨特的糖果，每一種糖果都有其各種的效果。但不要帶走兩顆以上！
+SCP-1853可以讓您更快地裝填彈藥，並減少武器後坐力。
+SCP-2176可以用於封鎖一個房間，或解除被SCP-079鎖定的房間或門。
+在被SCP-079觀察的房間內使用SCP-2176，可以將SCP-079暫時當機。
+SCP-244會減慢拾取物品的速度，同時也能封鎖SCP恢復它們的護盾。
+SCP-1576能允許活著的玩家與觀眾進行短時間的溝通。
+SCP-914可以轉換所有物品，包括武器和彈藥。
+SCP-914可以為對講機和Micro H.I.D.重新充能。
+SCP-914可以創造許多在其它地方都找不到的特殊物品。盡情嘗試吧！
+SCP-079在開局時相對較弱，但隨著遊戲的進行會變得越來越強大。
+SCP-079可以鎖門，熄燈，以及對特斯拉電網進行超載充能。
+被SCP-079操控的特斯拉電網會一直處於啟動狀態。
+通過啟動重收容區域的所有發電機後，按下其收容室內的終結按鈕就能重新收容SCP-079。
+SCP-079到達5級訪問級別時將能進行一個區域範圍的斷電。
+SCP-079鎖定門的時間越長，保持鎖定所需的電量就越高。
+SCP-079到達4級訪問級別時會解鎖入侵掃描器。如果掃描器檢測到有人類躲藏在房間裡，就會發出警報聲。
+正在被SCP-079使用的監視器會發出藍色的光。 你永遠不知道它什麼時候在看著。
+即使SCP-173在被注視著，它也能隨意在黑暗的房間中移動，帶上一個光源！
+SCP-173能直接從背後刺殺。
+SCP-173可以創造一個汙池，使通過它的人減速——製造快速有效的區域封鎖。
+SCP-106可以直接穿過門和玻璃窗。
+在使用潛伏狩獵時，SCP-106可以看它自身小範圍半徑內的人類。
+SCP-106可以打開獵人地圖進行傳送，預設為‘TAB’鍵。
+SCP-106的休謨護盾只能通過潛伏狩獵能力恢復，不過它從地面鑽出時十分脆弱。
+抓捕到獵物時SCP-106將能立即恢復一定精力，但每次使用能力時都會消耗精力。
+SCP-096在剛剛平靜下來的時候是最弱的。
+SCP-096能在狂怒狀態下向前衝鋒——破門而入並擊殺目標。
+SCP-096在狂怒時能破壞門以及扒開關閉的重型閘門。
+SCP-939可以模仿它曾經擊殺過的玩家的聲音。
+SCP-939能釋放一陣遺忘氣團。讓人類無法察覺到SCP-939，直到被它攻擊，同時受到影響的人還會忘記一些操作。
+使用腎上腺素可以立即消除SCP-939的遺忘氣團的影響。
+SCP-939的爪擊受護甲減免的影響。閃光彈對SCP-939特別有效。
+SCP-939的耐力越低，它就越難感知到玩家的存在。
+SCP-939在專注猛撲狀態下的時間越長，極度敏銳的被動效果就越強。
+仔細聽！ SCP的腳步聲與人類的有所不同。
+被SCP-049攻擊後，受害者會受到心臟驟停效果，在一定時間內造成持續傷害並加快耐力消耗。
+SCP-049可以立即擊殺任何受到心臟驟停狀態的人類。
+心臟驟停效果會迅速減少您的生命值。如果您想活下來，就必須使用一些醫療品。
+SCP-049隻能在屍體新鮮的情況下使其復活。
+SCP-049可以為附近的SCP-049-2新增一些護盾。
+SCP-049-2易受爆頭攻擊。
+SCP-049-2是很好的偵察兵，在擁有龐大數量時很危險。 
+絕大多數可操縱的SCP項目都有一個名為‘休謨護盾’的額外血條，它可以吸收傷害並能隨時間而恢復。

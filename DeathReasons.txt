@@ -1,35 +1,34 @@
-💀 It's <color=#ff80bc><b>[user]</b>'s</color> body - they were [class]!\n Observation: [cause]
-Recontained.
-Vaporized by the Alpha Warhead.\n Caused By: <color=#f5650a>Failure to evacuate in time.</color>
-Cardiac Arrest\n Caused by: <color=#e52121>SCP-049</color>
-Unknown cause of death.\n Caused By: <color=#f5650a>Unknown</color>
-Severe electrical burns.
-Oxygen deprivation resulted in a death of asphyxia.
-Severe blood loss caused by deep wounds.
-You have bled out.
-Shattered legs and feet suggest fatal trauma caused by a fall.
-You have fallen down.
-Corosion can be observed on the body.\n Caused By: <color=#e52121>SCP-106</color>
-Melted by a highly corrosive substance.\n Caused By: <color=#7cf58d>Decontamination</color>
-Sickly yellow skin and a rancid smell.\n Caused By: <color=#F5650A>Poision Ingestion.</color>
-The poison has finished you.\n Caused by: mixing <color=#e52121>SCP-207</color> with <color=#e52121>SCP-1853</color>
-Pale skin and blood leaking from the mouth. \n Caused By: <color=#e52121>SCP-207</color>
-<color=#e52121>SCP-207</color> has finished you.
-You shouldn't have taken more than two!\n Caused By: <color=#e52121>SCP-330</color>
-You've been caught by a Tesla Gate.
-Shrapnel and severe burns present.\n Caused by: <color=orange>Explosion</color>
-You've been killed by a nearby explosion.\n Caused by: <color=#5180f7>High Explosive Grenade</color>/<color=#ff80bc>Funny</color>
-Massive lacerations and excessive blood loss.\n Caused By: <color=#e52121>SCP-096</color>
-Cervical fracture at the base of the skull.\n Caused By: <color=#e52121>SCP-173</color>
-The bite of 87\n Caused By: <color=#e52121>SCP-939</color>
-Blunt trauma and minor scratches present.\n Caused By: <color=#e52121>SCP-049-2</color>
-[ammotype] bullet wounds.
-Badly mutilated and pulped.\n Caused By: <color=#e52121>SCP-018</color>
-Signs of severe trauma to both femur bones suggests death by circulatory shock.
-You've been sacrificed to recontain SCP-106.
-Automatically killed for friendly fire.
-Cold skin and frostbitten fingers.\n Caused By: <color=#e52121>SCP-244</color> induced hypothermia.
-You have frozen to death.\n Caused By: Spending too much time within <color=#e52121>SCP-244's</color> fog.
-Deep wounds and scratches are present on the body.\n Caused By: <color=#e52121>SCP-939</color>
-The Marshmallow Man has killed you!
-Killed by a falling metal pipe.
+💀 這是[class] - <b>[user]</b>的屍體！ \n\n死因：[cause]
+重新收容。
+在Alpha核彈頭的爆破中蒸發。
+突發性死亡，無明顯外傷。
+死因不明。
+重度電擊灼燒。
+因缺氧而窒息致死。
+傷口過深導致失血過多。
+你失血過多。
+從高處摔落造成的腿骨粉碎性骨折。
+你摔落致死。
+腐爛於口袋次元。\n 死因：<color=#e52121>SCP-106</color>
+被强酸性氣體腐蝕殆盡。\n 死因：<color=#7cf58d>Decontamination</color>
+中毒身亡，屍體泛黃且散發惡臭。\n 死因：<color=#F5650A>Poision Ingestion.</color>
+你中毒致死。\n 死因：mixing <color=#e52121>SCP-207</color> with <color=#e52121>SCP-1853</color>
+攝入不明物質導致臟器大出血。\n 死因：<color=#e52121>SCP-207</color>
+<color=#e52121>SCP-207</color> 终结了你。
+你不該拿走超過兩顆的！\n 死因：<color=#e52121>SCP-330</color>
+你已被特斯拉電網攔截消滅。
+爆炸所造成的炸彈碎片傷和三度燒傷。\n 死因：<color=orange>Explosion</color>
+你被周圍的爆炸波及炸死。
+大面積撕裂傷造成的失血過多。\n 死因：<color=#e52121>SCP-096</color>
+頸椎根部粉碎性骨折。\n 死因：<color=#e52121>SCP-173</color>
+顎骨附近有較大較深的咬痕。\n 死因：<color=#e52121>SCP-939</color>
+身體上有鈍性創傷和一些輕微的劃痕。\n 死因：<color=#e52121>SCP-049-2</color>
+被[ammotype]彈藥射殺。
+鈍器挫傷致死，屍體已不成人形。
+股骨挫傷造成的迴圈休克致死。
+為重新收容SCP-106，你被獻祭了。
+因誤傷友軍被自動處死。
+冰冷的皮膚和凍傷的手指表明死於體溫過低。\n 死因：<color=#e52121>SCP-244</color> 引發低體溫
+你被凍死了。\n 死因：在 <color=#e52121>SCP-244's</color> 濃霧待太久囉
+屍體上存在深度劃傷和抓痕。
+棉花糖人殺死了你！
