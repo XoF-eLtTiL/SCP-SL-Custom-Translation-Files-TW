@@ -1,1 +1,13 @@
 
+![螢幕擷取畫面 2024-06-16 050049](https://github.com/XoF-eLtTiL/SCP-SL-Custom-Translation-Files-TW/assets/78378322/4ca2bf73-fac7-4325-95f7-703d33d7ff39)
+![螢幕擷取畫面 2024-06-16 042144](https://github.com/XoF-eLtTiL/SCP-SL-Custom-Translation-Files-TW/assets/78378322/a60133ce-a1bb-4402-a183-47ed55838f87)
+![螢幕擷取畫面 2024-06-16 051508](https://github.com/XoF-eLtTiL/SCP-SL-Custom-Translation-Files-TW/assets/78378322/aaf35267-b9bd-49a3-945e-decb5b15a0c1)
+![螢幕擷取畫面 2024-06-16 051455](https://github.com/XoF-eLtTiL/SCP-SL-Custom-Translation-Files-TW/assets/78378322/21bb8683-a587-4b08-8914-a56ca1e69d0f)
+![螢幕擷取畫面 2024-06-16 051452](https://github.com/XoF-eLtTiL/SCP-SL-Custom-Translation-Files-TW/assets/78378322/712672db-4b27-473f-aba7-fd3723f77e00)
+![螢幕擷取畫面 2024-06-16 051323](https://github.com/XoF-eLtTiL/SCP-SL-Custom-Translation-Files-TW/assets/78378322/1ffd3a38-9acd-4935-8413-d7ce9dab5b6b)
+![螢幕擷取畫面 2024-06-16 051159](https://github.com/XoF-eLtTiL/SCP-SL-Custom-Translation-Files-TW/assets/78378322/15d5804a-676f-42b7-a009-209dda5e10dd)
+![螢幕擷取畫面 2024-06-16 051142](https://github.com/XoF-eLtTiL/SCP-SL-Custom-Translation-Files-TW/assets/78378322/dee192ed-f08f-4c98-8f11-7c38d84cb18d)
+![螢幕擷取畫面 2024-06-16 050651](https://github.com/XoF-eLtTiL/SCP-SL-Custom-Translation-Files-TW/assets/78378322/f0130a50-3ff3-4bb9-852a-dd142fd2686e)
+![螢幕擷取畫面 2024-06-16 050240](https://github.com/XoF-eLtTiL/SCP-SL-Custom-Translation-Files-TW/assets/78378322/76d3c626-d3d2-4183-bf69-90a9834ffeaf)
+![螢幕擷取畫面 2024-06-16 050156](https://github.com/XoF-eLtTiL/SCP-SL-Custom-Translation-Files-TW/assets/78378322/4af1d249-2918-4d37-bf87-58c987741409)
+![螢幕擷取畫面 2024-06-16 050126](https://github.com/XoF-eLtTiL/SCP-SL-Custom-Translation-Files-TW/assets/78378322/2b8d880d-7c35-4c78-ae76-c71b988e432c)
